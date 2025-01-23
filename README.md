@@ -22,21 +22,11 @@ This project analyzes consumer shopping trends using exploratory data analysis (
 1. Clone this repository:
 git clone https://github.com/dineshdinz12/shopping_trends.git
 
-css
-Copy
-Edit
 2. Navigate to the project directory:
 cd shopping_trends
 
-markdown
-Copy
-Edit
 3. Install required dependencies:
 pip install -r requirements.txt
-
-markdown
-Copy
-Edit
 
 ## Usage
 1. Open `shopping_trends_analysis.ipynb` in Jupyter Notebook.
